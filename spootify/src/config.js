@@ -1,5 +1,5 @@
 export default {
-  api: {
+  spotifyApi: {
     baseUrl: 'https://api.spotify.com/v1',
     authUrl: 'https://accounts.spotify.com/api/token',
     clientId: process.env.REACT_APP_SPOTIFY_CLIENT_ID,
